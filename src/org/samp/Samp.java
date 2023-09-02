@@ -7,7 +7,10 @@ public class Samp {
 		int a = 10;
 		int b = 20;
 		
+		System.out.println("Tc1 completed");
+
 		System.out.println("Tc2 completed");
+
 		
 	}
 
