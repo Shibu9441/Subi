@@ -8,6 +8,9 @@ public class Samp {
 		int b = 20;
 		
 		System.out.println("Tc1 completed");
+
+		System.out.println("Tc2 completed");
+
 		
 	}
 
